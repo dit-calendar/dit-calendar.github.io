@@ -7,7 +7,7 @@ This is a tool for collective participatory projects. A calendar for self-admini
 The backend is build on happstack in haskell.
 https://github.com/dit-calendar/dit-calendar-server
 
-## dit-calendar-ui [[![Build Status](https://travis-ci.org/dit-calendar/dit-calendar-ui.svg?branch=master)](https://travis-ci.org/dit-calendar/dit-calendar-ui)
+## dit-calendar-ui [![Build Status](https://travis-ci.org/dit-calendar/dit-calendar-ui.svg?branch=master)](https://travis-ci.org/dit-calendar/dit-calendar-ui)
 Very simple web-ui written in elm. For creating events and tasks from the perspective of the organization group.
 https://github.com/dit-calendar/dit-calendar-ui
 
