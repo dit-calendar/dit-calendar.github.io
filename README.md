@@ -29,6 +29,8 @@ To be able to use this application in your telegram group, you must first comple
 
 Careful! **This application is still in beta** and will be further developed after some feedback from you.
 
+:deciduous_tree: All programs have been developed with resource-saving in mind. For example the application will sleep after some time if nobody is using it, and wake up as soon as someone interacts with the ui or the bot.
+
 ## source code of the project
 this part is only interesting for developers
 ### dit-calendar-server [![Build Status](https://travis-ci.org/dit-calendar/dit-calendar-server.svg?branch=master)](https://travis-ci.org/dit-calendar/dit-calendar-server)
