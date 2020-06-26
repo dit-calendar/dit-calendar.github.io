@@ -29,8 +29,7 @@ To be able to use this application in your telegram group, you must first comple
 
 Careful! **This application is still in beta** and will be further developed after some feedback from you.
 
-
-## source code of the project
+## resource usage
 
 :deciduous_tree: All programs have been developed with resource-saving in mind.
 * the application will sleep after some time if nobody is using it, and will wake up as soon as someone interacts with the UI or the Bot.
@@ -38,6 +37,8 @@ Careful! **This application is still in beta** and will be further developed aft
 ![server-resource-usage](doc/server-resource-usage.png)
 * the [dit-calendar-UI](https://dit-calendar.github.io/) size is about 50 Kb
 * but the Bot still need improvement
+
+## source code of the project
 
 ### dit-calendar-server [![Build Status](https://travis-ci.org/dit-calendar/dit-calendar-server.svg?branch=master)](https://travis-ci.org/dit-calendar/dit-calendar-server)
 The backend is build on happstack in haskell.
