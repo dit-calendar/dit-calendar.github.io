@@ -1,6 +1,5 @@
 # dit-calendar
 
-## purpose
 This is a tool for collective participatory projects. A calendar for self-administration of work for groups. The main goal for the calendar is to provide event entries, create tasks for an event and allow a user-task assigment.
 
 you can create an event with tasks
