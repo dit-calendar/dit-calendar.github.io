@@ -26,7 +26,7 @@ To be able to use this application in your telegram group, you must first comple
       * **you are responsible for updating it!**
       * You can delete the program at any time on heroku and simply click on the heroku-buttton again to get the latest version
 
-Careful! **This application is still in beta** and will be further developed after some feedback from you.
+Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you.
 
 ## resource usage
 
