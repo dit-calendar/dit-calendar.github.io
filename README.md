@@ -20,7 +20,7 @@ To be able to use this application in your telegram group, you must first comple
     * to run the Bot you need an account on [heroku](https://dashboard.heroku.com/) (its free)
     * start the program for your Bot by clicking on 
     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot)   
-      * it will build and start the program - but it will not updated the program automatically!
+      * it will build and start the program - but it will not update the program automatically!
       * your are responsible for running it
       * if the server code has changed, your Bot may not be functioning properly anymore
       * **you are responsible for updating it!**
