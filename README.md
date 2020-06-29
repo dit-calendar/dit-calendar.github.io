@@ -13,7 +13,7 @@ To be able to use this application in your telegram group, you must first comple
 1. create an account on [dit-calendar-UI](https://dit-calendar.github.io/)
 2. create a telegram Bot
    * start a conversation with [@Botfather](https://t.me/botfather)
-     * write `/newbot`
+   * write `/newbot`
      * give your Bot a name, maybe a nice picture and **please mention this website in your Bot description**
 3. start the program for your telegram Bot by clicking on
     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) _(you need an account but its free)_
