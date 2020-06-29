@@ -1,6 +1,6 @@
 # dit-calendar
 
-This is a tool for collective participatory projects. A calendar for self-administration of work for groups. The main goal for the calendar is to provide event entries, create tasks for an event and allow a user-task assigment.
+This is a tool for (collective) participatory/collaborative projects. A calendar with tasks for self-administration of work for groups. The main goal for this tool is to provide an calendar for events, create tasks for an event and allow a user-task assigment via [telegram](https://telegram.org/).
 
 you can create an event with tasks
 ![ui-gif](doc/ui.gif)
@@ -10,21 +10,17 @@ and post it in your telegram group/channel, so a person can assign hirself
 
 ## how to use
 To be able to use this application in your telegram group, you must first complete following steps:
-1. create a telegram Bot
+1. create an account on [dit-calendar-UI](https://dit-calendar.github.io/)
+2. create a telegram Bot
    * start a conversation with [@Botfather](https://t.me/botfather)
      * write `/newbot`
      * give your Bot a name, maybe a nice picture and **please mention this website in your bot description**
-   * if you're interested in details, read the [telegram-docs](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-2. create an account on [dit-calendar-UI](https://dit-calendar.github.io/)
-3. start the program for the Bot
-    * to run the Bot you need an account on [heroku](https://dashboard.heroku.com/) (its free)
-    * start the program for your Bot by clicking on 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot)   
-      * it will build and start the program - but it will not update the program automatically!
-      * your are responsible for running it
-      * if the server code has changed, your Bot may not be functioning properly anymore
-      * **you are responsible for updating it!**
-      * You can delete the program at any time on heroku and simply click on the heroku-buttton again to get the latest version
+3. start the program for your telegram Bot by clicking on
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) (you need an account but its free)
+   * it will build the the current code and start the program - but it will not be update automatically!
+   * if the server code has changed, your Bot may not be functioning properly anymore
+   * **you are responsible for updating it!**
+   * You can delete the program at any time on heroku and simply click on the heroku-buttton again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
 
 Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you.
 
@@ -37,7 +33,7 @@ Careful! **This application is still in beta** and will be further developed aft
 * the [dit-calendar-UI](https://dit-calendar.github.io/) size is about 50 Kb
 * but the Bot still need improvement
 
-## source code of the project
+## source code
 
 ### dit-calendar-server [![Build Status](https://travis-ci.org/dit-calendar/dit-calendar-server.svg?branch=master)](https://travis-ci.org/dit-calendar/dit-calendar-server)
 The backend is build on happstack in haskell.
