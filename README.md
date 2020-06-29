@@ -20,9 +20,9 @@ To be able to use this application in your telegram group, you must first comple
    * it will build the the current code and start the program - but it will not be update automatically!
    * if the server code has changed, your Bot may not be functioning properly anymore
    * **you are responsible for updating it!**
-   * You can delete the program at any time on heroku and simply click on the heroku-buttton again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
+   * you can delete the program at any time on heroku and simply click on the heroku-buttton again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
 
-Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you.
+Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you. We will try to avoid code changes which will break an old version of the Bot. But we will only take into account the last release. If your Bot is already two versions behind, we do not promise compatibility.
 
 ## resource usage
 
