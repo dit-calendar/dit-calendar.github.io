@@ -16,11 +16,10 @@ To be able to use this application in your telegram group, you must first comple
      * write `/newbot`
      * give your Bot a name, maybe a nice picture and **please mention this website in your Bot description**
 3. start the program for your telegram Bot by clicking on
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) (you need an account but its free)
-   * it will build the the current code and start the program - but it will not be update automatically!
-   * if the server code has changed, your Bot may not be functioning properly anymore
-   * **you are responsible for updating it!**
-   * you can delete the program at any time on heroku and simply click on the heroku-buttton again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) _(you need an account but its free)_
+   * it will build the the current code and start the program - **but it will not be updated automatically!**
+   * you should update it from time to time manually
+     * you can delete the program at any time on heroku and simply click on the heroku-buttton again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
 
 Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you. We will try to avoid code changes which will break an old version of a Bot. But we will only take the last release into account. If your Bot is already two versions behind, we don't promise compatibility.
 
