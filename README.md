@@ -9,17 +9,16 @@ and post it in your telegram group/channel, so a person can assign hirself
 <img src="doc/telegram.gif" alt="telegram-gif" width="400"/>
 
 ## how to use
-To be able to use this application in your telegram group, you must first complete following steps:
+To use this application in your telegram group, you must first complete following steps:
 1. create an account on [dit-calendar-UI](https://dit-calendar.github.io/)
 2. create a telegram Bot
-   * start a conversation with [@Botfather](https://t.me/botfather)
-   * write `/newbot`
+   * start a conversation with [@Botfather](https://t.me/botfather) and write `/newbot`
      * give your Bot a name, maybe a nice picture and **please mention this website in your Bot description**
 3. start the program for your telegram Bot by clicking on
     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) _(you need an account but its free)_
    * it will build&start the program from the current source code
    * **it will not be updated automatically!** You should update it from time to time
-     * just delete it on heroku and simply click on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) again to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
+     * just delete it on heroku and click again on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) to get the [latest version](https://github.com/dit-calendar/dit-calendar-bot/releases)
 
 Careful! **This application is still in beta** and will be further developed after some [feedback](https://github.com/dit-calendar/dit-calendar.github.io/issues) from you. We will try to avoid code changes which will break an old version of a Bot. But we will only take the last release into account. If your Bot is already two versions behind, we don't promise compatibility.
 
