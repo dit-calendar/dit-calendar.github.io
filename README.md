@@ -3,10 +3,11 @@
 This is a tool for (collective) participatory/collaborative projects. A calendar with tasks for self-administration of work for groups. The main goal for this tool is to provide a calendar for events, create tasks for an event and allow a user-task assignment via [telegram](https://telegram.org/).
 
 you can create an event with tasks
-![ui-gif](doc/ui.gif)
+
+<img src="doc/ui.gif" alt="ui-gif" height="450"/>
 and post it in your telegram group/channel, so a person can assign hirself
 
-<img src="doc/telegram.gif" alt="telegram-gif" width="400"/>
+<img src="doc/telegram.gif" alt="telegram-gif" width="500"/>
 
 ## how to use
 To use this application in your telegram group, you must first complete following steps:
