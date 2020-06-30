@@ -15,7 +15,7 @@ To use this application in your telegram group, you must first complete followin
 2. create a telegram Bot
    * start a conversation with [@Botfather](https://t.me/botfather) and write `/newbot`
    * give your Bot a name, maybe a nice picture and **please mention this website in your Bot description**
-   * invite the new Bot in your telegram group/channel
+   * invite the new Bot in your telegram group
 4. start the program for your telegram Bot by clicking on
     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/dit-calendar-bot) _(you need an account but it's free)_
    * it will build&start the program from the current source code
