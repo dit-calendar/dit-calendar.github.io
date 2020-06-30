@@ -1,6 +1,6 @@
 # dit-calendar
 
-This is a tool for (collective) participatory/collaborative projects. A calendar with tasks for self-administration of work for groups. The main goal for this tool is to provide an calendar for events, create tasks for an event and allow a user-task assigment via [telegram](https://telegram.org/).
+This is a tool for (collective) participatory/collaborative projects. A calendar with tasks for self-administration of work for groups. The main goal for this tool is to provide a calendar for events, create tasks for an event and allow a user-task assignment via [telegram](https://telegram.org/).
 
 you can create an event with tasks
 ![ui-gif](doc/ui.gif)
