@@ -4,9 +4,9 @@ This is a tool to allow user-event assignment via [telegram](https://telegram.or
 
 after you created an event in your calendar
 
-<img src="doc/img/teamup-calendar.png" height="400"/>
+<img src="doc/teamup-calendar.png" height="400"/>
 you can post it in your telegram group/channel, so a person can assign hirself
-<img src="doc/img/telegram-bot.gif" alt="telegram-gif"/>
+<img src="doc/telegram-bot.gif" alt="telegram-gif"/>
 
 Depending on the calendar you want to use following telegram bots are available:
 * you already use a calendar, like the google calendar, nextcloud calendar or similar? Then try this [CalDAV-telegram-bot](https://github.com/dit-calendar/caldav-telegram-bot)
