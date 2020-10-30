@@ -1,6 +1,6 @@
 # calendar-bots
 
-This is a tool to allow user-event assignment via [telegram](https://telegram.org/) for various calendars. It designed to help (public/collective/participatory/collaborative) groups with self-administration of work.
+This is a tool for user-task assignment via [telegram](https://telegram.org/). It designed to help (public/collective/participatory/collaborative) groups with self-administration of work.
 
 after you created an event in your calendar
 
