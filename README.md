@@ -6,7 +6,7 @@ after you created an event or a task in your calendar
 post it in your telegram group/channel, so a person can assign hirself
 <img src="doc/telegram-bot.gif" alt="telegram-gif"/>
 
-This software is open source. You stay in control, because every group has its own Bot. And it can be used free of charge via [heroku](https://www.heroku.com/).
+This software is open source. You are in control, because each group has its own Bot. And it can be used free of charge via [heroku](https://www.heroku.com/).
 
 Depending on the calendar you want to use, following telegram bots are available:
 * you already using a online calendar, like the google calendar, nextcloud, owncloud [etc.](https://en.wikipedia.org/wiki/CalDAV#Server)? Then try the [CalDAV-telegram-bot](https://github.com/dit-calendar/caldav-telegram-bot)
