@@ -1,4 +1,4 @@
-This is a tool for user-event assignment via [telegram](https://telegram.org/). It's designed to help (public/collective/participatory/collaborative) groups with self-administration of work.
+This is a tool for user-event assignment via [telegram](https://telegram.org/). It's designed to help (public/collective/participatory/collaborative) groups to organize work.
 
 after you created an event or a task in your calendar 
 
